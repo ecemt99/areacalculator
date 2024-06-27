@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AreaCalculatorSample/1.0.0": {
+        "runtime": {
+          "AreaCalculatorSample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AreaCalculatorSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

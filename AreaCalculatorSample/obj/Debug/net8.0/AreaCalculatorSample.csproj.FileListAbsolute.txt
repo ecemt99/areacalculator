@@ -1,0 +1,28 @@
+/Users/ecemtopaclioglu/Desktop/area/area2/AreaCalculatorSample/bin/Debug/net8.0/AreaCalculatorSample
+/Users/ecemtopaclioglu/Desktop/area/area2/AreaCalculatorSample/bin/Debug/net8.0/AreaCalculatorSample.deps.json
+/Users/ecemtopaclioglu/Desktop/area/area2/AreaCalculatorSample/bin/Debug/net8.0/AreaCalculatorSample.runtimeconfig.json
+/Users/ecemtopaclioglu/Desktop/area/area2/AreaCalculatorSample/bin/Debug/net8.0/AreaCalculatorSample.dll
+/Users/ecemtopaclioglu/Desktop/area/area2/AreaCalculatorSample/bin/Debug/net8.0/AreaCalculatorSample.pdb
+/Users/ecemtopaclioglu/Desktop/area/area2/AreaCalculatorSample/obj/Debug/net8.0/AreaCalculatorSample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecemtopaclioglu/Desktop/area/area2/AreaCalculatorSample/obj/Debug/net8.0/AreaCalculatorSample.AssemblyInfoInputs.cache
+/Users/ecemtopaclioglu/Desktop/area/area2/AreaCalculatorSample/obj/Debug/net8.0/AreaCalculatorSample.AssemblyInfo.cs
+/Users/ecemtopaclioglu/Desktop/area/area2/AreaCalculatorSample/obj/Debug/net8.0/AreaCalculatorSample.csproj.CoreCompileInputs.cache
+/Users/ecemtopaclioglu/Desktop/area/area2/AreaCalculatorSample/obj/Debug/net8.0/AreaCalculatorSample.dll
+/Users/ecemtopaclioglu/Desktop/area/area2/AreaCalculatorSample/obj/Debug/net8.0/refint/AreaCalculatorSample.dll
+/Users/ecemtopaclioglu/Desktop/area/area2/AreaCalculatorSample/obj/Debug/net8.0/AreaCalculatorSample.pdb
+/Users/ecemtopaclioglu/Desktop/area/area2/AreaCalculatorSample/obj/Debug/net8.0/AreaCalculatorSample.genruntimeconfig.cache
+/Users/ecemtopaclioglu/Desktop/area/area2/AreaCalculatorSample/obj/Debug/net8.0/ref/AreaCalculatorSample.dll
+/Users/ecemtopaclioglu/Desktop/area/adsız klasör/AreaCalculatorSample/obj/Debug/net8.0/AreaCalculatorSample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecemtopaclioglu/Desktop/area/adsız klasör/AreaCalculatorSample/obj/Debug/net8.0/AreaCalculatorSample.AssemblyInfoInputs.cache
+/Users/ecemtopaclioglu/Desktop/area/adsız klasör/AreaCalculatorSample/obj/Debug/net8.0/AreaCalculatorSample.AssemblyInfo.cs
+/Users/ecemtopaclioglu/Desktop/area/adsız klasör/AreaCalculatorSample/obj/Debug/net8.0/AreaCalculatorSample.csproj.CoreCompileInputs.cache
+/Users/ecemtopaclioglu/Desktop/area/adsız klasör/AreaCalculatorSample/obj/Debug/net8.0/AreaCalculatorSample.dll
+/Users/ecemtopaclioglu/Desktop/area/adsız klasör/AreaCalculatorSample/obj/Debug/net8.0/refint/AreaCalculatorSample.dll
+/Users/ecemtopaclioglu/Desktop/area/adsız klasör/AreaCalculatorSample/obj/Debug/net8.0/AreaCalculatorSample.pdb
+/Users/ecemtopaclioglu/Desktop/area/adsız klasör/AreaCalculatorSample/bin/Debug/net8.0/AreaCalculatorSample
+/Users/ecemtopaclioglu/Desktop/area/adsız klasör/AreaCalculatorSample/bin/Debug/net8.0/AreaCalculatorSample.deps.json
+/Users/ecemtopaclioglu/Desktop/area/adsız klasör/AreaCalculatorSample/bin/Debug/net8.0/AreaCalculatorSample.runtimeconfig.json
+/Users/ecemtopaclioglu/Desktop/area/adsız klasör/AreaCalculatorSample/bin/Debug/net8.0/AreaCalculatorSample.dll
+/Users/ecemtopaclioglu/Desktop/area/adsız klasör/AreaCalculatorSample/bin/Debug/net8.0/AreaCalculatorSample.pdb
+/Users/ecemtopaclioglu/Desktop/area/adsız klasör/AreaCalculatorSample/obj/Debug/net8.0/AreaCalculatorSample.genruntimeconfig.cache
+/Users/ecemtopaclioglu/Desktop/area/adsız klasör/AreaCalculatorSample/obj/Debug/net8.0/ref/AreaCalculatorSample.dll
